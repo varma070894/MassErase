@@ -1,0 +1,13 @@
+libswd_dap.c:59:5:libswd_dap_init	56	static
+libswd_dap.c:91:5:libswd_dap_setup	72	static
+libswd_dap.c:149:5:libswd_dap_reset	40	static
+libswd_dap.c:185:5:libswd_dap_select	40	static
+libswd_dap.c:224:5:libswd_dap_errors_handle	80	static
+libswd_dap.c:274:5:libswd_dp_read_idcode	64	static
+libswd_dap.c:325:5:libswd_dap_detect	32	static
+libswd_dap.c:345:5:libswd_dp_read	96	static
+libswd_dap.c:431:5:libswd_dp_write	88	static
+libswd_dap.c:510:5:libswd_ap_bank_select	48	static
+libswd_dap.c:538:5:libswd_ap_select	56	static
+libswd_dap.c:565:5:libswd_ap_read	96	static
+libswd_dap.c:640:5:libswd_ap_write	88	static

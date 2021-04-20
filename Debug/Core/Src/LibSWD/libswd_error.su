@@ -1,0 +1,4 @@
+libswd_error.c:44:7:libswd_error_string	16	static
+libswd_error.c:96:5:libswd_error_handle	32	static
+libswd_error.c:127:5:libswd_error_handle_ack	16	static
+libswd_error.c:152:5:libswd_error_handle_ack_wait	680	static

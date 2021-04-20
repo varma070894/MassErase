@@ -1,0 +1,7 @@
+libswd_log.c:62:5:libswd_log_internal	24	static
+libswd_log.c:82:5:libswd_log_internal_va	32	static
+libswd_log.c:96:5:libswd_log_level_set	40	static
+libswd_log.c:110:5:libswd_log_level_get	16	static
+libswd_log.c:119:13:libswd_log_level_string	16	static
+libswd_log.c:136:13:libswd_operation_string	16	static
+libswd_log.c:157:13:libswd_request_string	32	static

@@ -1,0 +1,8 @@
+libswd_externs.c:43:5:libswd_drv_mosi_8	40	static
+libswd_externs.c:72:5:libswd_drv_mosi_32	40	static
+libswd_externs.c:101:5:libswd_drv_miso_8	40	static
+libswd_externs.c:133:5:libswd_drv_miso_32	40	static
+libswd_externs.c:169:5:libswd_drv_mosi_trn	40	static
+libswd_externs.c:199:5:libswd_drv_miso_trn	40	static
+libswd_externs.c:228:5:libswd_log_level_inherit	24	static
+libswd_externs.c:253:5:libswd_log	32	static

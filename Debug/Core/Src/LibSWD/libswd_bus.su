@@ -1,0 +1,9 @@
+libswd_bus.c:58:5:libswd_bus_setdir_mosi	32	static
+libswd_bus.c:75:5:libswd_bus_setdir_miso	32	static
+libswd_bus.c:94:5:libswd_bus_write_request_raw	32	static
+libswd_bus.c:132:5:libswd_bus_write_request	56	static
+libswd_bus.c:175:5:libswd_bus_read_ack	48	static
+libswd_bus.c:238:5:libswd_bus_write_data_p	40	static
+libswd_bus.c:271:5:libswd_bus_write_data_ap	40	static
+libswd_bus.c:303:5:libswd_bus_read_data_p	40	static
+libswd_bus.c:358:5:libswd_bus_write_control	40	static

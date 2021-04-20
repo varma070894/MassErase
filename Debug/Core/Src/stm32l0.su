@@ -1,0 +1,14 @@
+stm32l0.c:6:9:STM32L0_set_bits	40	static
+stm32l0.c:21:9:STM32L0_clear_bits	40	static
+stm32l0.c:36:9:STM32L0_wait_busy	40	static
+stm32l0.c:56:9:STM32L0_option_byte_write	40	static
+stm32l0.c:87:9:STM32L0_option_byte_prog	32	static
+stm32l0.c:94:9:STM32L0_option_byte_erase	24	static
+stm32l0.c:116:9:STM32L0_unlock_nvm	32	static
+stm32l0.c:140:9:STM32L0_unlock_opt	32	static
+stm32l0.c:179:9:STM32L0_unlock_prog	32	static
+stm32l0.c:219:9:STM32L0_mass_erase	40	static
+stm32l0.c:261:9:STM32L0_ReadOut_Lock	40	static
+stm32l0.c:299:9:STM32L0_half_page_prog	40	static
+stm32l0.c:330:9:STM32L0_prog	48	static
+stm32l0.c:371:9:STM32L0_main	40	static

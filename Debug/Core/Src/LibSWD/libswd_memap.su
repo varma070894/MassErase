@@ -1,0 +1,15 @@
+libswd_memap.c:52:5:libswd_memap_init	48	static
+libswd_memap.c:137:5:libswd_memap_setup	64	static
+libswd_memap.c:201:5:libswd_memap_read_char	96	static
+libswd_memap.c:360:5:libswd_memap_read_char_csw	64	static
+libswd_memap.c:426:5:libswd_memap_read_char_32	48	static
+libswd_memap.c:444:5:libswd_memap_read_int	72	static
+libswd_memap.c:555:5:libswd_memap_read_int_csw	64	static
+libswd_memap.c:614:5:libswd_memap_read_int_32	48	static
+libswd_memap.c:633:5:libswd_memap_write_char	80	static
+libswd_memap.c:784:5:libswd_memap_write_char_csw	64	static
+libswd_memap.c:846:5:libswd_memap_write_char_32	48	static
+libswd_memap.c:866:5:libswd_memap_write_int	72	static
+libswd_memap.c:973:5:libswd_memap_write_int_csw	64	static
+libswd_memap.c:1029:5:libswd_memap_write_int_32	48	static
+libswd_memap.c:1045:5:libswd_memap_write_int_32_val	48	static

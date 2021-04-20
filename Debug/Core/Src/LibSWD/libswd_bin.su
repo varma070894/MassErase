@@ -1,0 +1,8 @@
+libswd_bin.c:50:5:libswd_bin8_parity_even	24	static
+libswd_bin.c:65:5:libswd_bin32_parity_even	24	static
+libswd_bin.c:79:5:libswd_bin8_print	24	static
+libswd_bin.c:90:5:libswd_bin32_print	24	static
+libswd_bin.c:101:7:libswd_bin8_string	24	static
+libswd_bin.c:113:7:libswd_bin32_string	24	static
+libswd_bin.c:128:5:libswd_bin8_bitswap	32	static
+libswd_bin.c:153:5:libswd_bin32_bitswap	24	static

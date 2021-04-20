@@ -1,0 +1,12 @@
+libswd_cmdq.c:53:5:libswd_cmdq_init_main	16	static
+libswd_cmdq.c:61:5:libswd_cmdq_init_error	16	static
+libswd_cmdq.c:74:15:libswd_cmdq_find_head	24	static
+libswd_cmdq.c:92:15:libswd_cmdq_find_tail	24	static
+libswd_cmdq.c:111:15:libswd_cmdq_find_exectail	24	static
+libswd_cmdq.c:142:16:libswd_cmdq_get_next_mem_location	16	static
+libswd_cmdq.c:178:5:libswd_cmdq_append	32	static
+libswd_cmdq.c:219:5:libswd_cmdq_free_main_queue	8	static
+libswd_cmdq.c:226:5:libswd_cmdq_free_error_queue	8	static
+libswd_cmdq.c:233:5:libswd_cmdq_free	16	static
+libswd_cmdq.c:267:5:libswd_cmdq_free_tail	24	static
+libswd_cmdq.c:312:5:libswd_cmdq_flush	48	static

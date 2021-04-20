@@ -1,0 +1,5 @@
+libswd_debug.c:50:5:libswd_debug_detect	40	static
+libswd_debug.c:83:5:libswd_debug_init	24	static
+libswd_debug.c:96:5:libswd_debug_halt	40	static
+libswd_debug.c:133:5:libswd_debug_run	40	static
+libswd_debug.c:169:5:libswd_debug_is_halted	16	static

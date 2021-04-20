@@ -1,0 +1,4 @@
+libswd_core.c:54:15:libswd_init	16	static
+libswd_core.c:85:5:libswd_deinit_ctx	16	static
+libswd_core.c:95:5:libswd_deinit_cmdq	24	static
+libswd_core.c:107:5:libswd_deinit	24	static
